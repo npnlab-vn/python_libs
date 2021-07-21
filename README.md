@@ -11,3 +11,10 @@ Successfully installed packages!!!
 
 ## Web page
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+## Support
+Platform: Windows 64bit
+
+### Note
+v3.5: not support numpy, scipy, scikit-learn\n
+v3.6: not support numpy, scipy\n
