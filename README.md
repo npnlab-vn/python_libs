@@ -3,7 +3,7 @@
 * Open project in Pycharm
 * Right click, then choose <b>Run 'setup.py'</b>
 When you see this result, the install progress is finished.
-
+ 
 ```
 ==================================
 Successfully installed packages!!!
